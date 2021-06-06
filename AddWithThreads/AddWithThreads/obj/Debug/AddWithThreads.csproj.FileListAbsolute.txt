@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.exe.config
+D:\learning\C#_LEARNING_PROJECTS\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.exe
+D:\learning\C#_LEARNING_PROJECTS\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.pdb
+D:\learning\C#_LEARNING_PROJECTS\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.exe
+D:\learning\C#_LEARNING_PROJECTS\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.pdb

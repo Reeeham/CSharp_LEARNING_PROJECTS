@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe.config
+D:\learning\C#_LEARNING_PROJECTS\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.exe
+D:\learning\C#_LEARNING_PROJECTS\FunWithCSharpAsync\bin\Debug\FunWithCSharpAsync.pdb
+D:\learning\C#_LEARNING_PROJECTS\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.exe
+D:\learning\C#_LEARNING_PROJECTS\FunWithCSharpAsync\obj\Debug\FunWithCSharpAsync.pdb

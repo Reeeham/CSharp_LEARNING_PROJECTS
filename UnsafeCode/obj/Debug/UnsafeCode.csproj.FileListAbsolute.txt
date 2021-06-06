@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\UnsafeCode\bin\Debug\UnsafeCode.exe.config
+D:\learning\C#_LEARNING_PROJECTS\UnsafeCode\bin\Debug\UnsafeCode.exe
+D:\learning\C#_LEARNING_PROJECTS\UnsafeCode\bin\Debug\UnsafeCode.pdb
+D:\learning\C#_LEARNING_PROJECTS\UnsafeCode\obj\Debug\UnsafeCode.exe
+D:\learning\C#_LEARNING_PROJECTS\UnsafeCode\obj\Debug\UnsafeCode.pdb
+D:\learning\C#_LEARNING_PROJECTS\UnsafeCode\obj\Debug\UnsafeCode.csprojAssemblyReference.cache

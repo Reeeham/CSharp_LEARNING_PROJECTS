@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe
+D:\learning\C#_LEARNING_PROJECTS\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.exe
+D:\learning\C#_LEARNING_PROJECTS\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.pdb

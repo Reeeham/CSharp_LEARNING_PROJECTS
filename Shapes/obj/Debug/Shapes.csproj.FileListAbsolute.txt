@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\Shapes\bin\Debug\Shapes.exe.config
+D:\learning\C#_LEARNING_PROJECTS\Shapes\bin\Debug\Shapes.exe
+D:\learning\C#_LEARNING_PROJECTS\Shapes\bin\Debug\Shapes.pdb
+D:\learning\C#_LEARNING_PROJECTS\Shapes\obj\Debug\Shapes.exe
+D:\learning\C#_LEARNING_PROJECTS\Shapes\obj\Debug\Shapes.pdb
+D:\learning\C#_LEARNING_PROJECTS\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ec3ca6cf-a71c-4a07-95f7-cc554670a746" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/MagicEightBallService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MagicEightBallService.xsd" MetadataType="Schema" ID="16818461-3b7c-47fc-8a76-bf0c1b2aa56c" SourceId="1" SourceUrl="http://localhost:8080/MagicEightBallService?xsd=xsd0" />
+    <MetadataFile FileName="MagicEightBallService.wsdl" MetadataType="Wsdl" ID="0a327e5a-af87-4493-bc1d-2a214b30f401" SourceId="1" SourceUrl="http://localhost:8080/MagicEightBallService?wsdl" />
+    <MetadataFile FileName="MagicEightBallService1.xsd" MetadataType="Schema" ID="0d707ebf-c3d0-4933-a2b4-13e21dd30a95" SourceId="1" SourceUrl="http://localhost:8080/MagicEightBallService?xsd=xsd1" />
+    <MetadataFile FileName="MagicEightBallService.disco" MetadataType="Disco" ID="cba6a2a2-aa5a-4705-b396-9431b24b0852" SourceId="1" SourceUrl="http://localhost:8080/MagicEightBallService?disco" />
+    <MetadataFile FileName="MagicEightBallService1.wsdl" MetadataType="Wsdl" ID="f0cf5320-e3e3-469c-b473-80daad8b070f" SourceId="1" SourceUrl="http://localhost:8080/MagicEightBallService?wsdl=wsdl0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

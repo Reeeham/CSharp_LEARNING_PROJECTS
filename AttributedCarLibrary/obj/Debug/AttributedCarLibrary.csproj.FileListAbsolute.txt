@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.dll
+D:\learning\C#_LEARNING_PROJECTS\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.pdb
+D:\learning\C#_LEARNING_PROJECTS\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.dll
+D:\learning\C#_LEARNING_PROJECTS\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.pdb

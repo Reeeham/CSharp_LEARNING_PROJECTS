@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+D:\learning\C#_LEARNING_PROJECTS\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+D:\learning\C#_LEARNING_PROJECTS\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb

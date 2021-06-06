@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+D:\learning\C#_LEARNING_PROJECTS\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+D:\learning\C#_LEARNING_PROJECTS\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+D:\learning\C#_LEARNING_PROJECTS\InterfaceNameClash\obj\Debug\InterfaceNameClash.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\InterfaceNameClash\obj\Debug\InterfaceNameClash.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+D:\learning\C#_LEARNING_PROJECTS\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

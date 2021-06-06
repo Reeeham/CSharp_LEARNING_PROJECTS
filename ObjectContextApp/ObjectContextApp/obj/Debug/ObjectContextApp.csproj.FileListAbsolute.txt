@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+D:\learning\C#_LEARNING_PROJECTS\ObjectContextApp\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+D:\learning\C#_LEARNING_PROJECTS\ObjectContextApp\ObjectContextApp\obj\Debug\ObjectContextApp.pdb

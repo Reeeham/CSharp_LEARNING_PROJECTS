@@ -1,0 +1,12 @@
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe.config
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.exe
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\bin\Debug\MathWindowsServiceHost.pdb
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\bin\Debug\MathServiceLibrary.dll
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\bin\Debug\MathServiceLibrary.pdb
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\bin\Debug\MathServiceLibrary.dll.config
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.ProjectInstaller.resources
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csproj.GenerateResource.Cache
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.exe
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.pdb
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csprojAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\MathWindowsServiceHost\obj\Debug\MathWindowsServiceHost.csproj.CopyComplete

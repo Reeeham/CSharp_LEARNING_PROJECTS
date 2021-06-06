@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\MyTypeViewer\bin\Debug\MyTypeViewer.exe.config
+D:\learning\C#_LEARNING_PROJECTS\MyTypeViewer\bin\Debug\MyTypeViewer.exe
+D:\learning\C#_LEARNING_PROJECTS\MyTypeViewer\bin\Debug\MyTypeViewer.pdb
+D:\learning\C#_LEARNING_PROJECTS\MyTypeViewer\obj\Debug\MyTypeViewer.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\MyTypeViewer\obj\Debug\MyTypeViewer.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\MyTypeViewer\obj\Debug\MyTypeViewer.exe
+D:\learning\C#_LEARNING_PROJECTS\MyTypeViewer\obj\Debug\MyTypeViewer.pdb

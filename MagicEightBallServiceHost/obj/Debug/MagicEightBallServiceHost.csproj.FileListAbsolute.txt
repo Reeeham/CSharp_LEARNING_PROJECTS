@@ -1,0 +1,9 @@
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.exe.config
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.exe
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceHost.pdb
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceLib.dll
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\bin\Debug\MagicEightBallServiceLib.pdb
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.exe
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.pdb
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csprojAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceHost\obj\Debug\MagicEightBallServiceHost.csproj.CopyComplete

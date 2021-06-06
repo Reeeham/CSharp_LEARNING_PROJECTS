@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe
+D:\learning\C#_LEARNING_PROJECTS\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.exe
+D:\learning\C#_LEARNING_PROJECTS\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.pdb

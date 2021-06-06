@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\learning\C#_LEARNING_PROJECTS\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\learning\C#_LEARNING_PROJECTS\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\learning\C#_LEARNING_PROJECTS\AnonymousTypes\obj\Debug\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\learning\C#_LEARNING_PROJECTS\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

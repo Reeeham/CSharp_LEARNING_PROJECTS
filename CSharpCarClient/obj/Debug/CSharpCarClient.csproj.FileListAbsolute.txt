@@ -1,0 +1,9 @@
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\bin\Debug\CarLibrary.dll
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\bin\Debug\CarLibrary.pdb
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\obj\Debug\CSharpCarClient.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+D:\learning\C#_LEARNING_PROJECTS\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

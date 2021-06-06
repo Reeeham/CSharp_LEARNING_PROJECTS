@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2", "AutoLotDAL_Core2\AutoLotDAL_Core2.csproj", "{BA05045B-7D3E-4726-A7EA-F45362DA9D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2.Models", "..\AutoLotDAL_Core2.Model\AutoLotDAL_Core2.Models.csproj", "{CFD4CAEF-45CB-428B-A91E-DC733CC95C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2.TestDriver", "..\AutoLotDAL_Core2.TestDriver\AutoLotDAL_Core2.TestDriver.csproj", "{D270FD4A-EA12-4ABF-9EA0-970740AEC063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA05045B-7D3E-4726-A7EA-F45362DA9D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA05045B-7D3E-4726-A7EA-F45362DA9D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA05045B-7D3E-4726-A7EA-F45362DA9D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA05045B-7D3E-4726-A7EA-F45362DA9D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD4CAEF-45CB-428B-A91E-DC733CC95C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD4CAEF-45CB-428B-A91E-DC733CC95C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD4CAEF-45CB-428B-A91E-DC733CC95C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD4CAEF-45CB-428B-A91E-DC733CC95C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D270FD4A-EA12-4ABF-9EA0-970740AEC063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D270FD4A-EA12-4ABF-9EA0-970740AEC063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D270FD4A-EA12-4ABF-9EA0-970740AEC063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D270FD4A-EA12-4ABF-9EA0-970740AEC063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FB56DE-6F20-4A43-BF2D-2582B0664DBE}
+	EndGlobalSection
+EndGlobal

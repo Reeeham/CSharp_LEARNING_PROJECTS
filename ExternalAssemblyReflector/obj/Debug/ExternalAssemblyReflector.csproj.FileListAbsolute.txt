@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe.config
+D:\learning\C#_LEARNING_PROJECTS\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe
+D:\learning\C#_LEARNING_PROJECTS\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.pdb
+D:\learning\C#_LEARNING_PROJECTS\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.exe
+D:\learning\C#_LEARNING_PROJECTS\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.pdb

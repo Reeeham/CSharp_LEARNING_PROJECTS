@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\CustomException\bin\Debug\CustomException.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CustomException\bin\Debug\CustomException.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomException\bin\Debug\CustomException.pdb
+D:\learning\C#_LEARNING_PROJECTS\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomException\obj\Debug\CustomException.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomException\obj\Debug\CustomException.pdb

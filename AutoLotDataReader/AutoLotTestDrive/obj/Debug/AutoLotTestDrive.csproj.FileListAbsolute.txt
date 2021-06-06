@@ -1,0 +1,14 @@
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\AutoLotTestDrive.exe.config
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\AutoLotTestDrive.exe
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\AutoLotTestDrive.pdb
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\AutoLotDAL.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\EntityFramework.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\EntityFramework.SqlServer.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\AutoLotDAL.pdb
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\AutoLotDAL.dll.config
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\EntityFramework.xml
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\bin\Debug\EntityFramework.SqlServer.xml
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.exe
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotTestDrive\obj\Debug\AutoLotTestDrive.pdb

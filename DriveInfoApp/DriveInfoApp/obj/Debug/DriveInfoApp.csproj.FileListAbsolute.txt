@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.exe
+D:\learning\C#_LEARNING_PROJECTS\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.exe
+D:\learning\C#_LEARNING_PROJECTS\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.pdb

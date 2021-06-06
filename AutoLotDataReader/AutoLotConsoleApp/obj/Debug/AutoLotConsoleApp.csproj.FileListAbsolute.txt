@@ -1,0 +1,11 @@
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\bin\Debug\EntityFramework.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\bin\Debug\EntityFramework.xml
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.exe
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.pdb

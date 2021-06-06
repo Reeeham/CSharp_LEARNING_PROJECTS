@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.exe
+D:\learning\C#_LEARNING_PROJECTS\MultiThreadedPrinting\MultiThreadedPrinting\obj\Debug\MultiThreadedPrinting.pdb
+D:\learning\C#_LEARNING_PROJECTS\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe.config
+D:\learning\C#_LEARNING_PROJECTS\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.exe
+D:\learning\C#_LEARNING_PROJECTS\MultiThreadedPrinting\MultiThreadedPrinting\bin\Debug\MultiThreadedPrinting.pdb

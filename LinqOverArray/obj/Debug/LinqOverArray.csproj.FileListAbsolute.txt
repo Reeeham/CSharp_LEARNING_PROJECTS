@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+D:\learning\C#_LEARNING_PROJECTS\LinqOverArray\bin\Debug\LinqOverArray.exe
+D:\learning\C#_LEARNING_PROJECTS\LinqOverArray\bin\Debug\LinqOverArray.pdb
+D:\learning\C#_LEARNING_PROJECTS\LinqOverArray\obj\Debug\LinqOverArray.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\LinqOverArray\obj\Debug\LinqOverArray.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\LinqOverArray\obj\Debug\LinqOverArray.exe
+D:\learning\C#_LEARNING_PROJECTS\LinqOverArray\obj\Debug\LinqOverArray.pdb

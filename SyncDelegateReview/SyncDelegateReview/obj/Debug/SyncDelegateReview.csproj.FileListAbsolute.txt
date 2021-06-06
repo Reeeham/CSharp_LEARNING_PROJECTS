@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe.config
+D:\learning\C#_LEARNING_PROJECTS\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe
+D:\learning\C#_LEARNING_PROJECTS\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.pdb
+D:\learning\C#_LEARNING_PROJECTS\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.exe
+D:\learning\C#_LEARNING_PROJECTS\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.pdb

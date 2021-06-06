@@ -1,0 +1,1 @@
+D:\learning\C#_LEARNING_PROJECTS\MathClient\obj\Debug\MathClient.csprojAssemblyReference.cache

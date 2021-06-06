@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\SimplerCSharpConsoleApp\SimplerCSharpConsoleApp\bin\Debug\SimplerCSharpConsoleApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\SimplerCSharpConsoleApp\SimplerCSharpConsoleApp\bin\Debug\SimplerCSharpConsoleApp.exe
+D:\learning\C#_LEARNING_PROJECTS\SimplerCSharpConsoleApp\SimplerCSharpConsoleApp\bin\Debug\SimplerCSharpConsoleApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\SimplerCSharpConsoleApp\SimplerCSharpConsoleApp\obj\Debug\SimplerCSharpConsoleApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\SimplerCSharpConsoleApp\SimplerCSharpConsoleApp\obj\Debug\SimplerCSharpConsoleApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\SimplerCSharpConsoleApp\SimplerCSharpConsoleApp\obj\Debug\SimplerCSharpConsoleApp.exe
+D:\learning\C#_LEARNING_PROJECTS\SimplerCSharpConsoleApp\SimplerCSharpConsoleApp\obj\Debug\SimplerCSharpConsoleApp.pdb

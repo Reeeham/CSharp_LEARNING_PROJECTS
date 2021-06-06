@@ -1,0 +1,14 @@
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\obj\Debug\AutoLotDAL.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\bin\Debug\AutoLotDAL.dll.config
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\bin\Debug\EntityFramework.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\bin\Debug\EntityFramework.xml
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\obj\Debug\AutoLotDAL.Migrations.initial.resources
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.GenerateResource.Cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDAL\obj\Debug\AutoLotDAL.Migrations.Final.resources

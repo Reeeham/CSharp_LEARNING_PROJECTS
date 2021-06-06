@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+D:\learning\C#_LEARNING_PROJECTS\GenericDelegate\bin\Debug\GenericDelegate.exe
+D:\learning\C#_LEARNING_PROJECTS\GenericDelegate\bin\Debug\GenericDelegate.pdb
+D:\learning\C#_LEARNING_PROJECTS\GenericDelegate\obj\Debug\GenericDelegate.exe
+D:\learning\C#_LEARNING_PROJECTS\GenericDelegate\obj\Debug\GenericDelegate.pdb

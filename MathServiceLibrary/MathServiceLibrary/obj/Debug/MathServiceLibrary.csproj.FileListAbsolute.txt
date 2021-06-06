@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll.config
+D:\learning\C#_LEARNING_PROJECTS\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.dll
+D:\learning\C#_LEARNING_PROJECTS\MathServiceLibrary\MathServiceLibrary\bin\Debug\MathServiceLibrary.pdb
+D:\learning\C#_LEARNING_PROJECTS\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.dll
+D:\learning\C#_LEARNING_PROJECTS\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.pdb
+D:\learning\C#_LEARNING_PROJECTS\MathServiceLibrary\MathServiceLibrary\obj\Debug\MathServiceLibrary.csprojAssemblyReference.cache

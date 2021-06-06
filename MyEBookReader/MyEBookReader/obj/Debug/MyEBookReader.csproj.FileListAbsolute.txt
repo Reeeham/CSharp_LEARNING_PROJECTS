@@ -1,0 +1,2 @@
+D:\learning\C#_LEARNING_PROJECTS\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\MyEBookReader\MyEBookReader\obj\Debug\MyEBookReader.csproj.CoreCompileInputs.cache

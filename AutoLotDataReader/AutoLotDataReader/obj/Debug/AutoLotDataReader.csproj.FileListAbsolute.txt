@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe.config
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb

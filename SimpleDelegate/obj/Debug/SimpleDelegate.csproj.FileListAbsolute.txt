@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+D:\learning\C#_LEARNING_PROJECTS\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+D:\learning\C#_LEARNING_PROJECTS\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

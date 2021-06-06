@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\EmployeeApp\Employees\bin\Debug\Employees.exe.config
+D:\learning\C#_LEARNING_PROJECTS\EmployeeApp\Employees\bin\Debug\Employees.exe
+D:\learning\C#_LEARNING_PROJECTS\EmployeeApp\Employees\bin\Debug\Employees.pdb
+D:\learning\C#_LEARNING_PROJECTS\EmployeeApp\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\EmployeeApp\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\EmployeeApp\Employees\obj\Debug\Employees.exe
+D:\learning\C#_LEARNING_PROJECTS\EmployeeApp\Employees\obj\Debug\Employees.pdb

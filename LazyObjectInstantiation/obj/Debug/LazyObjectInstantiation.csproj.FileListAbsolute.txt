@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.exe.config
+D:\learning\C#_LEARNING_PROJECTS\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.exe
+D:\learning\C#_LEARNING_PROJECTS\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.pdb
+D:\learning\C#_LEARNING_PROJECTS\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.exe
+D:\learning\C#_LEARNING_PROJECTS\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.pdb

@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.pdb
+D:\learning\C#_LEARNING_PROJECTS\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.pdb
+D:\learning\C#_LEARNING_PROJECTS\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.csprojResolveAssemblyReference.cache

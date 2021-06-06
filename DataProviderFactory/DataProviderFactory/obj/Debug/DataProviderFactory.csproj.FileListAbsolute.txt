@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe.config
+D:\learning\C#_LEARNING_PROJECTS\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe
+D:\learning\C#_LEARNING_PROJECTS\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.pdb
+D:\learning\C#_LEARNING_PROJECTS\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.exe
+D:\learning\C#_LEARNING_PROJECTS\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.pdb

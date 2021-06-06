@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+D:\learning\C#_LEARNING_PROJECTS\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+D:\learning\C#_LEARNING_PROJECTS\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+D:\learning\C#_LEARNING_PROJECTS\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+D:\learning\C#_LEARNING_PROJECTS\ObjectOverrides\obj\Debug\ObjectOverrides.pdb
+D:\learning\C#_LEARNING_PROJECTS\ObjectOverrides\obj\Debug\ObjectOverrides.csprojResolveAssemblyReference.cache

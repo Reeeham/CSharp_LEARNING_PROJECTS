@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\CustomInterface\bin\Debug\CustomInterface.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CustomInterface\bin\Debug\CustomInterface.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomInterface\bin\Debug\CustomInterface.pdb
+D:\learning\C#_LEARNING_PROJECTS\CustomInterface\obj\Debug\CustomInterface.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomInterface\obj\Debug\CustomInterface.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomInterface\obj\Debug\CustomInterface.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomInterface\obj\Debug\CustomInterface.pdb

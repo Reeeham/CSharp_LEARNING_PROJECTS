@@ -1,0 +1,5 @@
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\MagicEightBallServiceLib.dll
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\MagicEightBallServiceLib.pdb
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.dll
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.pdb
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe.config
+D:\learning\C#_LEARNING_PROJECTS\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe
+D:\learning\C#_LEARNING_PROJECTS\InterfaceExtensions\bin\Debug\InterfaceExtensions.pdb
+D:\learning\C#_LEARNING_PROJECTS\InterfaceExtensions\obj\Debug\InterfaceExtensions.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\InterfaceExtensions\obj\Debug\InterfaceExtensions.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\InterfaceExtensions\obj\Debug\InterfaceExtensions.exe
+D:\learning\C#_LEARNING_PROJECTS\InterfaceExtensions\obj\Debug\InterfaceExtensions.pdb

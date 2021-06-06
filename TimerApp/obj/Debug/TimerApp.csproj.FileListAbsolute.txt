@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\TimerApp\bin\Debug\TimerApp.exe.config
+D:\learning\C#_LEARNING_PROJECTS\TimerApp\bin\Debug\TimerApp.exe
+D:\learning\C#_LEARNING_PROJECTS\TimerApp\bin\Debug\TimerApp.pdb
+D:\learning\C#_LEARNING_PROJECTS\TimerApp\obj\Debug\TimerApp.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\TimerApp\obj\Debug\TimerApp.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\TimerApp\obj\Debug\TimerApp.exe
+D:\learning\C#_LEARNING_PROJECTS\TimerApp\obj\Debug\TimerApp.pdb

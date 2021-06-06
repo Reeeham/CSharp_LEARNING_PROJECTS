@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+D:\learning\C#_LEARNING_PROJECTS\CustomGenericMethods\obj\Debug\CustomGenericMethods.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomGenericMethods\obj\Debug\CustomGenericMethods.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

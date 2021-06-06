@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.exe.config
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.exe
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceClient\bin\Debug\MagicEightBallServiceClient.pdb
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.exe
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.pdb
+D:\learning\C#_LEARNING_PROJECTS\MagicEightBallServiceClient\obj\Debug\MagicEightBallServiceClient.csprojAssemblyReference.cache

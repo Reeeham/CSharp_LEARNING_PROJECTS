@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\CIL\CIL\bin\Debug\CIL.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CIL\CIL\bin\Debug\CIL.exe
+D:\learning\C#_LEARNING_PROJECTS\CIL\CIL\bin\Debug\CIL.pdb
+D:\learning\C#_LEARNING_PROJECTS\CIL\CIL\obj\Debug\CIL.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\CIL\CIL\obj\Debug\CIL.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CIL\CIL\obj\Debug\CIL.exe
+D:\learning\C#_LEARNING_PROJECTS\CIL\CIL\obj\Debug\CIL.pdb

@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+D:\learning\C#_LEARNING_PROJECTS\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+D:\learning\C#_LEARNING_PROJECTS\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+D:\learning\C#_LEARNING_PROJECTS\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+D:\learning\C#_LEARNING_PROJECTS\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.pdb

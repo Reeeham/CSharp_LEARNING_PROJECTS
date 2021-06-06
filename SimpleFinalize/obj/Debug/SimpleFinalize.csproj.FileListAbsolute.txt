@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+D:\learning\C#_LEARNING_PROJECTS\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+D:\learning\C#_LEARNING_PROJECTS\SimpleFinalize\obj\Debug\SimpleFinalize.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\SimpleFinalize\obj\Debug\SimpleFinalize.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleFinalize\obj\Debug\SimpleFinalize.pdb

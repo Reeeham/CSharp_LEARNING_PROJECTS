@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\CloneablePoint\bin\Debug\CloneablePoint.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CloneablePoint\bin\Debug\CloneablePoint.exe
+D:\learning\C#_LEARNING_PROJECTS\CloneablePoint\bin\Debug\CloneablePoint.pdb
+D:\learning\C#_LEARNING_PROJECTS\CloneablePoint\obj\Debug\CloneablePoint.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\CloneablePoint\obj\Debug\CloneablePoint.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CloneablePoint\obj\Debug\CloneablePoint.exe
+D:\learning\C#_LEARNING_PROJECTS\CloneablePoint\obj\Debug\CloneablePoint.pdb

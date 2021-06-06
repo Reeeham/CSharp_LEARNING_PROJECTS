@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\CustomConversions\bin\Debug\CustomConversions.exe.config
+D:\learning\C#_LEARNING_PROJECTS\CustomConversions\bin\Debug\CustomConversions.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomConversions\bin\Debug\CustomConversions.pdb
+D:\learning\C#_LEARNING_PROJECTS\CustomConversions\obj\Debug\CustomConversions.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\CustomConversions\obj\Debug\CustomConversions.exe
+D:\learning\C#_LEARNING_PROJECTS\CustomConversions\obj\Debug\CustomConversions.pdb

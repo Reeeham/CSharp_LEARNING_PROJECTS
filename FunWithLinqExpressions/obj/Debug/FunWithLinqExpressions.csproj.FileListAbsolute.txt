@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+D:\learning\C#_LEARNING_PROJECTS\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+D:\learning\C#_LEARNING_PROJECTS\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+D:\learning\C#_LEARNING_PROJECTS\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+D:\learning\C#_LEARNING_PROJECTS\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb

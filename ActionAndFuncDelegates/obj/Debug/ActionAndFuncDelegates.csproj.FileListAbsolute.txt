@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+D:\learning\C#_LEARNING_PROJECTS\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+D:\learning\C#_LEARNING_PROJECTS\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+D:\learning\C#_LEARNING_PROJECTS\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csprojAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+D:\learning\C#_LEARNING_PROJECTS\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

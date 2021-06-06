@@ -1,0 +1,17 @@
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.deps.json
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.pdb
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.AssemblyInfoInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.AssemblyInfo.cs
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.dll
+D:\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.pdb
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.deps.json
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.dll
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\bin\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.pdb
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.csprojAssemblyReference.cache
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.csproj.CoreCompileInputs.cache
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.AssemblyInfoInputs.cache
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.AssemblyInfo.cs
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.dll
+D:\me\learning\C#_LEARNING_PROJECTS\AutoLotDAL_Core2.Model\obj\Debug\netcoreapp2.1\AutoLotDAL_Core2.Models.pdb

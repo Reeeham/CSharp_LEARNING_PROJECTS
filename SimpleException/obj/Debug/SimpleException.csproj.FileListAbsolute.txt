@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\SimpleException\bin\Debug\SimpleException.exe.config
+D:\learning\C#_LEARNING_PROJECTS\SimpleException\bin\Debug\SimpleException.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleException\bin\Debug\SimpleException.pdb
+D:\learning\C#_LEARNING_PROJECTS\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\SimpleException\obj\Debug\SimpleException.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\SimpleException\obj\Debug\SimpleException.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleException\obj\Debug\SimpleException.pdb

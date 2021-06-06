@@ -1,0 +1,6 @@
+D:\learning\C#_LEARNING_PROJECTS\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.exe.config
+D:\learning\C#_LEARNING_PROJECTS\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.pdb
+D:\learning\C#_LEARNING_PROJECTS\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.csprojAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.exe
+D:\learning\C#_LEARNING_PROJECTS\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.pdb

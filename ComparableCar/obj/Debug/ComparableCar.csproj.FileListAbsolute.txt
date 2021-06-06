@@ -1,0 +1,7 @@
+D:\learning\C#_LEARNING_PROJECTS\ComparableCar\bin\Debug\ComparableCar.exe.config
+D:\learning\C#_LEARNING_PROJECTS\ComparableCar\bin\Debug\ComparableCar.exe
+D:\learning\C#_LEARNING_PROJECTS\ComparableCar\bin\Debug\ComparableCar.pdb
+D:\learning\C#_LEARNING_PROJECTS\ComparableCar\obj\Debug\ComparableCar.csprojResolveAssemblyReference.cache
+D:\learning\C#_LEARNING_PROJECTS\ComparableCar\obj\Debug\ComparableCar.csproj.CoreCompileInputs.cache
+D:\learning\C#_LEARNING_PROJECTS\ComparableCar\obj\Debug\ComparableCar.exe
+D:\learning\C#_LEARNING_PROJECTS\ComparableCar\obj\Debug\ComparableCar.pdb
